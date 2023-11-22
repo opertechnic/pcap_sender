@@ -1,5 +1,6 @@
 # pcap_sender
-send the *.pcapng file (like captured with WireShark software) to custom network interface
+This python script can send previously captured '*.pcappng' file (like using WireShark то make file before).
 
-This python based app will can send WireSharK captured file to send using selected network
-interface (need support 'Miscellaneous' by your network interface).
+- required 'Miscellaneous' mode suuport from used network interface.
+- tested only with Win10 <Passed> 
+- tested only with Win11 <Passed>
