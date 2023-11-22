@@ -5,4 +5,4 @@ This python script can send previously captured '*.pcapng' file (like using Wire
 - tested  Win10 <Passed> 
 - tested  Win11 <Passed>
 
-<img src="/path/to/img.jpg" alt="Alt text" title="Optional title">
+<img src="/img/screen1.jpg" alt="Screen1" title="">
