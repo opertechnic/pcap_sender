@@ -94,7 +94,7 @@ class InterfaceSelector(tk.Toplevel):
         flagua.grid(column=2, row=4, columnspan=1)
         yellow_rect = flagua.create_rectangle(0, 0, 20, 8, fill="blue")
         blue_rect = flagua.create_rectangle(0, 8, 20, 16, fill="yellow")
-        labelua = ttk.Label(self, text="https://github.com/code_404 ", font=('Arial', 8))
+        labelua = ttk.Label(self, text="https://github.com/opertechnic ", font=('Arial', 8))
         labelua.grid(column=2, row=4, sticky="e")
 
         self.protocol("WM_DELETE_WINDOW", self.on_close)
